@@ -1881,7 +1881,6 @@ body.royal_loader {
   display: inline-block;
   width: 100%;
   position: relative;
-  margin-bottom: 95px;
 }
 .owl-services-h1 .owl-item:nth-child(2n+2) {
   background: #f3f3f3;
@@ -3055,6 +3054,7 @@ body.royal_loader {
   text-align: center;
 }
 .item-team img {
+  height: 160px;
   width: 100%;
   max-width: 100%;
   -webkit-filter: contrast(80%);
@@ -3075,7 +3075,7 @@ body.royal_loader {
   font-weight: 500;
 }
 .item-team .body-team {
-  padding: 25px 0 30px 0;
+  height: 70px;
   background: #f9f9f9;
 }
 .item-team .footer-team {
