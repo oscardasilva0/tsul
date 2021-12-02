@@ -1861,9 +1861,9 @@ body.royal_loader {
 }
 .right-about-h1 img {
   margin-top: 100px;
-  width: 650px;
+  width: 100%;
   max-width: none;
-  padding-top: 100px;
+  padding-top: 400px;
 }
 .demo-sub-about-text {
   margin: 55px 0;
@@ -3126,10 +3126,10 @@ body.royal_loader {
   opacity: 1!important;
 }
 .btn-2.prev-team-h4 {
-  left: -80px;
+  right: 94%;
 }
 .btn-2.next-team-h4 {
-  right: -80px;
+  left:94%;
 }
 /* Call Back Home 5 */
 .cb-h5 {
